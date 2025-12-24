@@ -41,7 +41,7 @@
 
 1. Репозиторий запушен в соответсвии с заданием
 
-![Репозиторий]((https://github.com/Stvrrow/8-03-hw/blob/main/img/img4.png)
+![Репозиторий](https://github.com/Stvrrow/8-03-hw/blob/main/img/img4.png)
 
 2. файл .gitlab-ci.yml:
 
