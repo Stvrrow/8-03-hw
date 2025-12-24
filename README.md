@@ -13,7 +13,7 @@
 
 1. GitLab развёрнут с помощью Vagrantfile.
 
-`![Развёрнутый GitLab](ссылка на скриншот 1)`
+`![Развёрнутый GitLab](https://github.com/Stvrrow/8-03-hw/blob/main/img/img1.png)'
 
 2. Пустой проект создан.
 
