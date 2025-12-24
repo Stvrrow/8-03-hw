@@ -13,15 +13,15 @@
 
 1. GitLab развёрнут с помощью Vagrantfile.
 
-`![Развёрнутый GitLab](https://github.com/Stvrrow/8-03-hw/blob/main/img/img1.png)'
+![Развёрнутый GitLab](https://github.com/Stvrrow/8-03-hw/blob/main/img/img1.png)
 
 2. Пустой проект создан.
 
-`![Пустой проект](ссылка на скриншот 1)`
+![Пустой проект](https://github.com/Stvrrow/8-03-hw/blob/main/img/img2.png)
 
 3. Раннер создан и запущен.
 
-`![gitlab-runner](ссылка на скриншот 1)`
+![gitlab-runner](https://github.com/Stvrrow/8-03-hw/blob/main/img/img3.png)
 
 ---
 
@@ -41,7 +41,7 @@
 
 1. Репозиторий запушен в соответсвии с заданием
 
-`![Репозиторий](ссылка на скриншот 1)`
+![Репозиторий]((https://github.com/Stvrrow/8-03-hw/blob/main/img/img4.png)
 
 2. файл .gitlab-ci.yml:
 
@@ -63,8 +63,8 @@ build:
    - docker build .
 
 ```
-`![.gitlab-ci.yml](ссылка на скриншот 1)`
+![.gitlab-ci.yml](https://github.com/Stvrrow/8-03-hw/blob/main/.gitlab-ci.yml)
 
 3. Скриншот с успешно собранными сборками:
 
-`![Собранные сборки](ссылка на скриншот 1)`
+![Собранные сборки](https://github.com/Stvrrow/8-03-hw/blob/main/img/img5.png)
